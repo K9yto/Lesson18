@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+
+
+img{
+    border-radius: 10px;
+    width: 100px;height: 200px;
+    
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: bisque;
+   padding-top: 100px;
+}
+main{
+    padding-bottom: 50px;
+}
